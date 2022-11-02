@@ -5,7 +5,7 @@ import styles from './styles.module.scss';
 const Home = () => (
   <div className={styles.container}>
     Home
-    <SampleComponent foo="hi" />
+    <SampleComponent foo="develop branch" />
   </div>
 );
 
